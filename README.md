@@ -1,5 +1,5 @@
 # Project Description
-## Food-Saver
+## Food Saver
 Food Saver is an app aimed to reduce food waste by allowing people to post food to give away and connecting people to resources for food. Once you are logged in, you can fill out a card with information about the food you are giving away and also upload an image for people to view. You can delete posts you've created and filter for the type of food you wish to find. 
 
 The app can be viewed at <https://food-saver-35a64.firebaseapp.com/>. 
